@@ -1,4 +1,5 @@
-### I am Lalit Patel 👋
+### Hey there,I'm Lalit Patel 👋
+A 20 years old full stack javaScript developer from India and have keen interest in JavaScript. I develop innovative website using my creativity and aesthetic solution. I am passionate about learning new technologies and smart working developer, one of my favorite quote that i live by is "knowing is not enough, we must apply".sunglasses
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning react native 
 - 👯 I’m looking to collaborate on ..
