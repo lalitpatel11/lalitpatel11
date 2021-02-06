@@ -1,7 +1,7 @@
 ### Hey there,I'm Lalit Patel 👋
 
 - 🔭 I’m currently working on movie-app
-- 🌱 I’m currently learning react native 
+- 🌱 I’m currently learning reactjs
 - 👯 I’m looking to collaborate on Vates
 - 🤔 I’m looking for help with react
 - 💬 Ask me about tech
