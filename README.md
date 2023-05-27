@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on movie-app
 - 🌱 I’m currently learning reactjs
-- 👯 I’m looking to collaborate on Vates
+- 👯 I’m looking to collaborate on React-native
 - 🤔 I’m looking for help with react
 - 💬 Ask me about tech
 - ⚡ Fun fact: 😴😴😴😴😴
