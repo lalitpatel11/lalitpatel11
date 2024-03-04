@@ -47,6 +47,7 @@
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue)
+<br/>
 [![Lalit's github stats](https://github-readme-stats.vercel.app/api?username=lalitpatel11&count_private=true&hide=prs&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 >
 [![Top Language use by yogi](https://github-readme-stats.vercel.app/api/top-langs/?username=lalitpatel11)](https://github.com/anuraghazra/github-readme-stats)
