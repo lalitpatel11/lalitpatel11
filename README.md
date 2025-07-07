@@ -13,10 +13,17 @@
 
 ### Connect with me:
 
-[<img align="left" alt="lalit | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="lalit | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="lalit | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="lalit | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)][youtube]
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)][twitter]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)][instagram]
+
+
+[twitter]: https://twitter.com/Lalitku02012153
+[youtube]: https://www.youtube.com/channel/UCIRy6NjVaW38AEQ_xqF-osg?view_as=subscriber
+[instagram]: https://www.instagram.com/lalit_._patel/
+[linkedin]: https://www.linkedin.com/in/lalit-patel-0a089b1a9/
+
 <br />
 ## Portfolio
 https://lalitpatel11.github.io/
@@ -57,7 +64,3 @@ https://lalitpatel11.github.io/
 
 
 
-[twitter]: https://twitter.com/Lalitku02012153
-[youtube]: https://www.youtube.com/channel/UCIRy6NjVaW38AEQ_xqF-osg?view_as=subscriber
-[instagram]: https://www.instagram.com/lalit_._patel/
-[linkedin]: https://www.linkedin.com/in/lalit-patel-0a089b1a9/
