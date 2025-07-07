@@ -24,7 +24,6 @@
 [instagram]: https://www.instagram.com/lalit_._patel/
 [linkedin]: https://www.linkedin.com/in/lalit-patel-0a089b1a9/
 
-<br />
 ## Portfolio
 https://lalitpatel11.github.io/
 ## 💻 Tech Stack
