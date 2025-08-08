@@ -21,7 +21,7 @@
 
 [twitter]: https://twitter.com/Lalitku02012153
 [youtube]: https://www.youtube.com/channel/UCIRy6NjVaW38AEQ_xqF-osg?view_as=subscriber
-[instagram]: https://www.instagram.com/lalitpatel11/
+[instagram]: https://www.instagram.com/lalitpatel.11/
 [linkedin]: https://www.linkedin.com/in/lalit-patel-0a089b1a9/
 
 ## Portfolio
